@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShorraEnisLB_295")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d819d4f2984db227387bc969e222088cbe0a62e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1914c5b9d343912475f943af606867badcc43f2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShorraEnisLB_295")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShorraEnisLB_295")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
