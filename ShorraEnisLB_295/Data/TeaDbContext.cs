@@ -28,7 +28,7 @@ public class TeaDbContext : DbContext
         modelBuilder.Entity<TeaRecipe>(entity =>
         {
             entity.HasKey(t => t.Id);
-            entity.Property(t => t.Name).IsRequired().HasMaxLength(100);
+            entity.Property(t => t.TeaName).IsRequired().HasMaxLength(100);
             
             entity.HasOne(t => t.Collection)
                 .WithMany(c => c.TeaRecipes)

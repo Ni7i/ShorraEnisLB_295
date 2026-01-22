@@ -5,6 +5,7 @@ C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\obj\Debug\net8.0\ShorraEnisLB_295.csproj.CoreCompileInputs.cache
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\obj\Debug\net8.0\ShorraEnisLB_295.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\obj\Debug\net8.0\ShorraEnisLB_295.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\obj\Debug\net8.0\ShorraEnisLB_295.sourcelink.json
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\appsettings.json
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\ShorraEnisLB_295.exe
@@ -15,6 +16,7 @@ C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
@@ -27,13 +29,7 @@ C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
-C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -49,7 +45,6 @@ C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\System.ClientModel.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\Shorr\OneDrive - BBBaden\Informatik\Frau Rapisarda\Modul 295\ShorraEnis_LB_M295_V1\Codespace\ShorraEnisLB-295\ShorraEnisLB_295\bin\Debug\net8.0\System.Composition.Convention.dll
