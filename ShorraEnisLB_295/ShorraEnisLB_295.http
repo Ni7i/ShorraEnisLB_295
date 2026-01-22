@@ -1,0 +1,6 @@
+@ShorraEnisLB_295_HostAddress = http://localhost:5249
+
+GET {{ShorraEnisLB_295_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

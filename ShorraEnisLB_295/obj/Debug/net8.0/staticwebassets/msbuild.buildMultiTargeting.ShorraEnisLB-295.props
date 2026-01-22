@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ShorraEnisLB-295.props" />
+</Project>
