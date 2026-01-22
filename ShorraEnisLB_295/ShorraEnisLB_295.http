@@ -3,4 +3,3 @@
 GET {{ShorraEnisLB_295_HostAddress}}/weatherforecast/
 Accept: application/json
 
-###
